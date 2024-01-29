@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01StacksAndQuques", "01StacksAndQuques\01StacksAndQuques.csproj", "{D6C598E5-6D66-4AFB-A4CC-7EBA9BC33E10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{3921C415-31BA-454A-853F-B7D8E0066599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6C598E5-6D66-4AFB-A4CC-7EBA9BC33E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C598E5-6D66-4AFB-A4CC-7EBA9BC33E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C598E5-6D66-4AFB-A4CC-7EBA9BC33E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C598E5-6D66-4AFB-A4CC-7EBA9BC33E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3921C415-31BA-454A-853F-B7D8E0066599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3921C415-31BA-454A-853F-B7D8E0066599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3921C415-31BA-454A-853F-B7D8E0066599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3921C415-31BA-454A-853F-B7D8E0066599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F38B1592-1CD4-441A-B181-8E86B971ED6E}
+	EndGlobalSection
+EndGlobal
