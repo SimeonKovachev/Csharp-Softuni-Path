@@ -1,3 +1,7 @@
-﻿Stack<char> text = new Stack<char>();
+﻿
+Stack<char> text = new Stack<char>(Console.ReadLine().ToCharArray());
 
-text.Push()
+while (text.Count != 0)
+{
+    Console.Write(text.Pop());
+}
