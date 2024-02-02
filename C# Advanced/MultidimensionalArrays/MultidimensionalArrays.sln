@@ -17,9 +17,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SquareMaxSum", "05.Squar
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{AB4536E8-EA68-488F-A32D-C8BE8E1B7785}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DiagonalDifference", "01.DiagonalDifference\01.DiagonalDifference.csproj", "{AA633D43-609E-4E67-9399-35EB6A36C537}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise.01.DiagonalDifference", "01.DiagonalDifference\Exercise.01.DiagonalDifference.csproj", "{AA633D43-609E-4E67-9399-35EB6A36C537}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SquaresInMatrix", "02.SquaresInMatrix\02.SquaresInMatrix.csproj", "{9C2A880D-AA45-4EDB-846B-EA2918137C1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise.02.SquaresInMatrix", "02.SquaresInMatrix\Exercise.02.SquaresInMatrix.csproj", "{9C2A880D-AA45-4EDB-846B-EA2918137C1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
